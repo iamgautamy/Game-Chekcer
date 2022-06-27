@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "481888868322",
+    "firebase_url": "https://sepm-ba72d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sepm-ba72d",
+    "storage_bucket": "sepm-ba72d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481888868322:android:6b428ae1458365706fcbbb",
+        "android_client_info": {
+          "package_name": "com.example.gamecheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481888868322-1ovmbkvc9ftnomuqc2l3nmr4ndstl72v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamecheck",
+            "certificate_hash": "69bb4a805ef8d11eedf00bc7b5d38c67f3c08bd7"
+          }
+        },
+        {
+          "client_id": "481888868322-t20l2r5qaptsmvo93fh2260d6v3doa93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sgtIyRevR6GwVmT30teLk0kXbOsPKhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481888868322-t20l2r5qaptsmvo93fh2260d6v3doa93.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481888868322-a9e2kmfdlaa0pmf3f3s1p10q9ukopcmj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gamecheck"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
